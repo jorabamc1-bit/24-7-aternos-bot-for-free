@@ -1,7 +1,7 @@
 {
   "name": "JorabaMc Bot",
   "bot-account": {
-    "username": "JorabaMcBot",
+    "username": "JorabaBot",
     "password": "",
     "type": "offline"
   },
@@ -19,8 +19,8 @@
   },
   "utils": {
     "auto-auth": {
-      "enabled": false,
-      "password": "SoloPlayz"
+      "enabled": true,
+      "password": "newman.222@"
     },
     "anti-afk": {
       "enabled": true,
@@ -31,7 +31,7 @@
       "repeat": true,
       "repeat-delay": 50,
       "messages": [
-        "I'm a Best player",
+        "I'm a Best Player",
         "Subscribe to Zairox_Sinister",
         "Join Our Discord Server https://discord.gg/UvUsd5n4Je "
       ]
@@ -70,7 +70,7 @@
   },
   "beds": {
     "pick-up-day": false,
-    "place-night": false
+    "place-night": true
   },
   "discord": {
     "enabled": false,
