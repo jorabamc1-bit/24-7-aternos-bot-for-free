@@ -1,8 +1,8 @@
 {
   "name": "JorabaMc Bot",
   "bot-account": {
-    "username": "JorabaBot",
-    "password": "",
+    "username": "JorabaMcBot",
+    "password": "NewMan.222@",
     "type": "offline"
   },
   "server": {
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "newman.222@"
+      "password": "NewMan.222@"
     },
     "anti-afk": {
       "enabled": true,
